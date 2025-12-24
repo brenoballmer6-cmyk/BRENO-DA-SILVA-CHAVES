@@ -1,0 +1,8 @@
+{
+  "name": "OmniFlow - Premium WhatsApp Automation SaaS",
+  "description": "A sophisticated multi-tenant SaaS platform for visual WhatsApp automation, instance management, and AI-powered conversational flows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
